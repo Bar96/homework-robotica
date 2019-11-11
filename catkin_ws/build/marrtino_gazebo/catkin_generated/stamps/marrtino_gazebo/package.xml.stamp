@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package>
+  <name>marrtino_gazebo</name>
+  <version>0.0.1</version>
+  <description>Marrtino Simulator bringup</description>
+
+  <author email="castaman@dei.unipd.it">Nicola Castaman</author>
+
+  <maintainer email="castaman@dei.unipd.it">Nicola Castaman</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roslaunch</build_depend>
+  <run_depend>controller_manager</run_depend>
+  <run_depend>gazebo_plugins</run_depend>
+  <run_depend>gazebo_ros</run_depend>
+  <run_depend>gazebo_ros_control</run_depend>
+  <run_depend>hector_gazebo_plugins</run_depend>
+  <run_depend>marrtino_description</run_depend>
+  <run_depend>pointcloud_to_laserscan</run_depend>
+  <run_depend>rostopic</run_depend>
+
+  <export>
+  </export>
+</package>
+

@@ -1,0 +1,1 @@
+/home/marco/homework-robotica/catkin_ws/devel/.private/apriltag_ros/share/roseus/ros/apriltag_ros/srv/AnalyzeSingleImage.l

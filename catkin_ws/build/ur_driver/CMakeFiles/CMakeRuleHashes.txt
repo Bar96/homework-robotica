@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+a887071bc699d5fef5834af062c2c46a /home/marco/homework-robotica/catkin_ws/devel/.private/ur_driver/include/ur_driver/URDriverConfig.h
+f5372299363ba0f79b1fd2146918386a CMakeFiles/clean_test_results
+5e7fe65d2b816cf6478b6681b8531c7a CMakeFiles/ur_driver_gencfg

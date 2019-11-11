@@ -1,0 +1,5 @@
+internal/marrtino/marrtino_description
+/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_description/cmake.lock /home/marco/homework-robotica/catkin_ws/devel/./cmake.lock
+/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_description/share/marrtino_description/cmake/marrtino_descriptionConfig-version.cmake /home/marco/homework-robotica/catkin_ws/devel/share/marrtino_description/cmake/marrtino_descriptionConfig-version.cmake
+/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_description/share/marrtino_description/cmake/marrtino_descriptionConfig.cmake /home/marco/homework-robotica/catkin_ws/devel/share/marrtino_description/cmake/marrtino_descriptionConfig.cmake
+/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_description/lib/pkgconfig/marrtino_description.pc /home/marco/homework-robotica/catkin_ws/devel/lib/pkgconfig/marrtino_description.pc

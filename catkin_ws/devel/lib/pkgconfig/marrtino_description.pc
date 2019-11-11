@@ -1,0 +1,1 @@
+/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_description/lib/pkgconfig/marrtino_description.pc

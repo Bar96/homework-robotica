@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/marco/homework-robotica/catkin_ws/build/robotiq_3f_gripper_articulated_gazebo/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_75afc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_75afc.dir/build.make CMakeFiles/cmTC_75afc.dir/build
+make[1]: ingresso nella directory "/home/marco/homework-robotica/catkin_ws/build/robotiq_3f_gripper_articulated_gazebo/CMakeFiles/CMakeTmp"
+Building C object CMakeFiles/cmTC_75afc.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_75afc.dir/CheckSymbolExists.c.o   -c /home/marco/homework-robotica/catkin_ws/build/robotiq_3f_gripper_articulated_gazebo/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_75afc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_75afc.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_75afc.dir/CheckSymbolExists.c.o  -o cmTC_75afc 
+CMakeFiles/cmTC_75afc.dir/CheckSymbolExists.c.o: nella funzione "main":
+CheckSymbolExists.c:(.text+0x1b): riferimento non definito a "pthread_create"
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_75afc.dir/build.make:97: recipe for target 'cmTC_75afc' failed
+make[1]: *** [cmTC_75afc] Error 1
+make[1]: uscita dalla directory "/home/marco/homework-robotica/catkin_ws/build/robotiq_3f_gripper_articulated_gazebo/CMakeFiles/CMakeTmp"
+Makefile:126: recipe for target 'cmTC_75afc/fast' failed
+make: *** [cmTC_75afc/fast] Error 2
+
+File /home/marco/homework-robotica/catkin_ws/build/robotiq_3f_gripper_articulated_gazebo/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/marco/homework-robotica/catkin_ws/build/robotiq_3f_gripper_articulated_gazebo/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5461f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5461f.dir/build.make CMakeFiles/cmTC_5461f.dir/build
+make[1]: ingresso nella directory "/home/marco/homework-robotica/catkin_ws/build/robotiq_3f_gripper_articulated_gazebo/CMakeFiles/CMakeTmp"
+Building C object CMakeFiles/cmTC_5461f.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_5461f.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_5461f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5461f.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_5461f.dir/CheckFunctionExists.c.o  -o cmTC_5461f -lpthreads 
+/usr/bin/ld: impossibile trovare -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_5461f.dir/build.make:97: recipe for target 'cmTC_5461f' failed
+make[1]: *** [cmTC_5461f] Error 1
+make[1]: uscita dalla directory "/home/marco/homework-robotica/catkin_ws/build/robotiq_3f_gripper_articulated_gazebo/CMakeFiles/CMakeTmp"
+Makefile:126: recipe for target 'cmTC_5461f/fast' failed
+make: *** [cmTC_5461f/fast] Error 2
+
+

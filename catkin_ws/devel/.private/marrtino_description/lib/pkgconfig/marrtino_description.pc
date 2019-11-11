@@ -1,0 +1,8 @@
+prefix=/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_description
+
+Name: marrtino_description
+Description: Description of marrtino_description
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_description/lib 
+Requires: 

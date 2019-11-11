@@ -1,0 +1,8 @@
+prefix=/home/marco/homework-robotica/catkin_ws/devel/.private/gazebo_version_helpers
+
+Name: gazebo_version_helpers
+Description: Description of gazebo_version_helpers
+Version: 0.0.0
+Cflags: -I/home/marco/homework-robotica/catkin_ws/src/third_party/gazebo-pkgs/gazebo_version_helpers/include
+Libs: -L/home/marco/homework-robotica/catkin_ws/devel/.private/gazebo_version_helpers/lib -lgazebo_version_helpers
+Requires: gazebo_ros roscpp

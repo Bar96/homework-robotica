@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marco/homework-robotica/catkin_ws/src/third_party/universal_robot/ur_kinematics/include/ur_kinematics/ikfast.h
+vector
+-
+list
+-
+stdexcept
+-
+
+/home/marco/homework-robotica/catkin_ws/src/third_party/universal_robot/ur_kinematics/include/ur_kinematics/ur_kin.h
+
+/home/marco/homework-robotica/catkin_ws/src/third_party/universal_robot/ur_kinematics/src/ur_kin.cpp
+ur_kinematics/ur_kin.h
+-
+math.h
+-
+stdio.h
+-
+ur_kinematics/ikfast.h
+-
+

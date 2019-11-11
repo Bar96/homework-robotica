@@ -1,0 +1,6 @@
+internal/ar_arena
+/home/marco/homework-robotica/catkin_ws/devel/.private/ar_arena/cmake.lock /home/marco/homework-robotica/catkin_ws/devel/./cmake.lock
+/home/marco/homework-robotica/catkin_ws/devel/.private/ar_arena/share/ar_arena/cmake/ar_arenaConfig.cmake /home/marco/homework-robotica/catkin_ws/devel/share/ar_arena/cmake/ar_arenaConfig.cmake
+/home/marco/homework-robotica/catkin_ws/devel/.private/ar_arena/share/ar_arena/cmake/ar_arenaConfig-version.cmake /home/marco/homework-robotica/catkin_ws/devel/share/ar_arena/cmake/ar_arenaConfig-version.cmake
+/home/marco/homework-robotica/catkin_ws/devel/.private/ar_arena/lib/pkgconfig/ar_arena.pc /home/marco/homework-robotica/catkin_ws/devel/lib/pkgconfig/ar_arena.pc
+/home/marco/homework-robotica/catkin_ws/devel/.private/ar_arena/lib/ar_arena/quaternion_to_tf_node /home/marco/homework-robotica/catkin_ws/devel/lib/ar_arena/quaternion_to_tf_node

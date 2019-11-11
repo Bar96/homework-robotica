@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_control/setup.sh

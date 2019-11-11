@@ -1,0 +1,1 @@
+/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_control/share/marrtino_control/cmake/marrtino_controlConfig-version.cmake

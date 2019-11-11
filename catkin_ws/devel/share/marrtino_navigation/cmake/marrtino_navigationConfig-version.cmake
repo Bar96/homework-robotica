@@ -1,0 +1,1 @@
+/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_navigation/share/marrtino_navigation/cmake/marrtino_navigationConfig-version.cmake

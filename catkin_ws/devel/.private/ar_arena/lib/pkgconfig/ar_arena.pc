@@ -1,0 +1,8 @@
+prefix=/home/marco/homework-robotica/catkin_ws/devel/.private/ar_arena
+
+Name: ar_arena
+Description: Description of ar_arena
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/marco/homework-robotica/catkin_ws/devel/.private/ar_arena/lib 
+Requires: 

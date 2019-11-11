@@ -1,0 +1,8 @@
+prefix=/home/marco/homework-robotica/catkin_ws/install
+
+Name: ar_moveit_config
+Description: Description of ar_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/marco/homework-robotica/catkin_ws/install/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_description/share/marrtino_description/cmake/marrtino_descriptionConfig-version.cmake

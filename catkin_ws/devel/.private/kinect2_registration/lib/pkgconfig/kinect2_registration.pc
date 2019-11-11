@@ -1,0 +1,8 @@
+prefix=/home/marco/homework-robotica/catkin_ws/devel/.private/kinect2_registration
+
+Name: kinect2_registration
+Description: Description of kinect2_registration
+Version: 0.0.1
+Cflags: -I/home/marco/homework-robotica/catkin_ws/src/third_party/iai_kinect2/kinect2_registration/include
+Libs: -L/home/marco/homework-robotica/catkin_ws/devel/.private/kinect2_registration/lib -lkinect2_registration
+Requires: 

@@ -1,0 +1,9 @@
+/home/marco/homework-robotica/catkin_ws/build/apriltag/CMakeFiles/install/local.dir
+/home/marco/homework-robotica/catkin_ws/build/apriltag/CMakeFiles/install.dir
+/home/marco/homework-robotica/catkin_ws/build/apriltag/CMakeFiles/apriltag_demo.dir
+/home/marco/homework-robotica/catkin_ws/build/apriltag/CMakeFiles/edit_cache.dir
+/home/marco/homework-robotica/catkin_ws/build/apriltag/CMakeFiles/apriltag.dir
+/home/marco/homework-robotica/catkin_ws/build/apriltag/CMakeFiles/install/strip.dir
+/home/marco/homework-robotica/catkin_ws/build/apriltag/CMakeFiles/opencv_demo.dir
+/home/marco/homework-robotica/catkin_ws/build/apriltag/CMakeFiles/rebuild_cache.dir
+/home/marco/homework-robotica/catkin_ws/build/apriltag/CMakeFiles/list_install_components.dir

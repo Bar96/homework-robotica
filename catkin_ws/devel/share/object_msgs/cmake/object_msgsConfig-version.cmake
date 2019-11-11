@@ -1,0 +1,1 @@
+/home/marco/homework-robotica/catkin_ws/devel/.private/object_msgs/share/object_msgs/cmake/object_msgsConfig-version.cmake

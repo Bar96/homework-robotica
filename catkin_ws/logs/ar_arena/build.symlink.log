@@ -1,0 +1,4 @@
+Symlinking /home/marco/homework-robotica/catkin_ws/devel/share/ar_arena/cmake/ar_arenaConfig.cmake
+Symlinking /home/marco/homework-robotica/catkin_ws/devel/share/ar_arena/cmake/ar_arenaConfig-version.cmake
+Symlinking /home/marco/homework-robotica/catkin_ws/devel/lib/pkgconfig/ar_arena.pc
+Symlinking /home/marco/homework-robotica/catkin_ws/devel/lib/ar_arena/quaternion_to_tf_node

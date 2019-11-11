@@ -1,0 +1,1 @@
+/home/marco/homework-robotica/catkin_ws/devel/.private/path_navigation_msgs/share/path_navigation_msgs/msg/PathExecutionGoal.msg

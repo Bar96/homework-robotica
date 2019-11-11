@@ -1,0 +1,7 @@
+third_party/ur_modern_driver
+/home/marco/homework-robotica/catkin_ws/devel/.private/ur_modern_driver/cmake.lock /home/marco/homework-robotica/catkin_ws/devel/./cmake.lock
+/home/marco/homework-robotica/catkin_ws/devel/.private/ur_modern_driver/share/ur_modern_driver/cmake/ur_modern_driverConfig-version.cmake /home/marco/homework-robotica/catkin_ws/devel/share/ur_modern_driver/cmake/ur_modern_driverConfig-version.cmake
+/home/marco/homework-robotica/catkin_ws/devel/.private/ur_modern_driver/share/ur_modern_driver/cmake/ur_modern_driverConfig.cmake /home/marco/homework-robotica/catkin_ws/devel/share/ur_modern_driver/cmake/ur_modern_driverConfig.cmake
+/home/marco/homework-robotica/catkin_ws/devel/.private/ur_modern_driver/lib/libur_hardware_interface.so /home/marco/homework-robotica/catkin_ws/devel/lib/libur_hardware_interface.so
+/home/marco/homework-robotica/catkin_ws/devel/.private/ur_modern_driver/lib/pkgconfig/ur_modern_driver.pc /home/marco/homework-robotica/catkin_ws/devel/lib/pkgconfig/ur_modern_driver.pc
+/home/marco/homework-robotica/catkin_ws/devel/.private/ur_modern_driver/lib/ur_modern_driver/ur_driver /home/marco/homework-robotica/catkin_ws/devel/lib/ur_modern_driver/ur_driver

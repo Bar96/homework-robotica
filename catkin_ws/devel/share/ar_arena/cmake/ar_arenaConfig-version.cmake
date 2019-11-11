@@ -1,0 +1,1 @@
+/home/marco/homework-robotica/catkin_ws/devel/.private/ar_arena/share/ar_arena/cmake/ar_arenaConfig-version.cmake

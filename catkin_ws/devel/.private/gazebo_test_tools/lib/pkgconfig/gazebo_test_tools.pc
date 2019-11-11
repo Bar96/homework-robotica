@@ -1,0 +1,8 @@
+prefix=/home/marco/homework-robotica/catkin_ws/devel/.private/gazebo_test_tools
+
+Name: gazebo_test_tools
+Description: Description of gazebo_test_tools
+Version: 1.0.2
+Cflags: -I/home/marco/homework-robotica/catkin_ws/devel/.private/gazebo_test_tools/include -I/home/marco/homework-robotica/catkin_ws/src/third_party/gazebo-pkgs/gazebo_test_tools/include
+Libs: -L/home/marco/homework-robotica/catkin_ws/devel/.private/gazebo_test_tools/lib -lgazebo_test_tools
+Requires: object_msgs gazebo_ros geometry_msgs roscpp std_msgs message_runtime gazebo_ros
