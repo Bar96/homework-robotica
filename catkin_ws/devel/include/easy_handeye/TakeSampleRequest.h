@@ -1,1 +1,0 @@
-/home/marco/homework-robotica/catkin_ws/devel/.private/easy_handeye/include/easy_handeye/TakeSampleRequest.h

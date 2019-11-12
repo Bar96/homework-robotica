@@ -1,6 +1,0 @@
-third_party/iai_kinect2/kinect2_calibration
-/home/marco/homework-robotica/catkin_ws/devel/.private/kinect2_calibration/cmake.lock /home/marco/homework-robotica/catkin_ws/devel/./cmake.lock
-/home/marco/homework-robotica/catkin_ws/devel/.private/kinect2_calibration/share/kinect2_calibration/cmake/kinect2_calibrationConfig-version.cmake /home/marco/homework-robotica/catkin_ws/devel/share/kinect2_calibration/cmake/kinect2_calibrationConfig-version.cmake
-/home/marco/homework-robotica/catkin_ws/devel/.private/kinect2_calibration/share/kinect2_calibration/cmake/kinect2_calibrationConfig.cmake /home/marco/homework-robotica/catkin_ws/devel/share/kinect2_calibration/cmake/kinect2_calibrationConfig.cmake
-/home/marco/homework-robotica/catkin_ws/devel/.private/kinect2_calibration/lib/pkgconfig/kinect2_calibration.pc /home/marco/homework-robotica/catkin_ws/devel/lib/pkgconfig/kinect2_calibration.pc
-/home/marco/homework-robotica/catkin_ws/devel/.private/kinect2_calibration/lib/kinect2_calibration/kinect2_calibration /home/marco/homework-robotica/catkin_ws/devel/lib/kinect2_calibration/kinect2_calibration

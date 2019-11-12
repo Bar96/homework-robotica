@@ -1,8 +1,0 @@
-prefix=/home/marco/homework-robotica/catkin_ws/install
-
-Name: marrtino_navigation
-Description: Description of marrtino_navigation
-Version: 0.0.1
-Cflags: 
-Libs: -L/home/marco/homework-robotica/catkin_ws/install/lib 
-Requires: 

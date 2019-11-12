@@ -1,5 +1,0 @@
-third_party/universal_robot/ur_bringup
-/home/marco/homework-robotica/catkin_ws/devel/.private/ur_bringup/cmake.lock /home/marco/homework-robotica/catkin_ws/devel/./cmake.lock
-/home/marco/homework-robotica/catkin_ws/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig.cmake /home/marco/homework-robotica/catkin_ws/devel/share/ur_bringup/cmake/ur_bringupConfig.cmake
-/home/marco/homework-robotica/catkin_ws/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig-version.cmake /home/marco/homework-robotica/catkin_ws/devel/share/ur_bringup/cmake/ur_bringupConfig-version.cmake
-/home/marco/homework-robotica/catkin_ws/devel/.private/ur_bringup/lib/pkgconfig/ur_bringup.pc /home/marco/homework-robotica/catkin_ws/devel/lib/pkgconfig/ur_bringup.pc

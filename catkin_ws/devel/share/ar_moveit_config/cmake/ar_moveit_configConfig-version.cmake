@@ -1,1 +1,0 @@
-/home/marco/homework-robotica/catkin_ws/devel/.private/ar_moveit_config/share/ar_moveit_config/cmake/ar_moveit_configConfig-version.cmake

@@ -1,1 +1,0 @@
-/home/marco/homework-robotica/catkin_ws/devel/.private/robotiq_modbus_tcp/lib/python2.7/dist-packages/robotiq_modbus_tcp/__init__.py

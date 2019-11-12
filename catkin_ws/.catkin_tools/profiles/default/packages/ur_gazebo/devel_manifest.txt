@@ -1,5 +1,0 @@
-third_party/universal_robot/ur_gazebo
-/home/marco/homework-robotica/catkin_ws/devel/.private/ur_gazebo/cmake.lock /home/marco/homework-robotica/catkin_ws/devel/./cmake.lock
-/home/marco/homework-robotica/catkin_ws/devel/.private/ur_gazebo/share/ur_gazebo/cmake/ur_gazeboConfig.cmake /home/marco/homework-robotica/catkin_ws/devel/share/ur_gazebo/cmake/ur_gazeboConfig.cmake
-/home/marco/homework-robotica/catkin_ws/devel/.private/ur_gazebo/share/ur_gazebo/cmake/ur_gazeboConfig-version.cmake /home/marco/homework-robotica/catkin_ws/devel/share/ur_gazebo/cmake/ur_gazeboConfig-version.cmake
-/home/marco/homework-robotica/catkin_ws/devel/.private/ur_gazebo/lib/pkgconfig/ur_gazebo.pc /home/marco/homework-robotica/catkin_ws/devel/lib/pkgconfig/ur_gazebo.pc

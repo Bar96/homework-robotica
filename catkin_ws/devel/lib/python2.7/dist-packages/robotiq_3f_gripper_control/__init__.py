@@ -1,1 +1,0 @@
-/home/marco/homework-robotica/catkin_ws/devel/.private/robotiq_3f_gripper_control/lib/python2.7/dist-packages/robotiq_3f_gripper_control/__init__.py

@@ -1,1 +1,0 @@
-/home/marco/homework-robotica/catkin_ws/devel/.private/object_msgs/share/roseus/ros/object_msgs/manifest.l

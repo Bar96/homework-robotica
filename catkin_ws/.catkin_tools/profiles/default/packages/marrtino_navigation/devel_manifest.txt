@@ -1,5 +1,0 @@
-internal/marrtino/marrtino_navigation
-/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_navigation/cmake.lock /home/marco/homework-robotica/catkin_ws/devel/./cmake.lock
-/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_navigation/share/marrtino_navigation/cmake/marrtino_navigationConfig-version.cmake /home/marco/homework-robotica/catkin_ws/devel/share/marrtino_navigation/cmake/marrtino_navigationConfig-version.cmake
-/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_navigation/share/marrtino_navigation/cmake/marrtino_navigationConfig.cmake /home/marco/homework-robotica/catkin_ws/devel/share/marrtino_navigation/cmake/marrtino_navigationConfig.cmake
-/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_navigation/lib/pkgconfig/marrtino_navigation.pc /home/marco/homework-robotica/catkin_ws/devel/lib/pkgconfig/marrtino_navigation.pc

@@ -1,1 +1,0 @@
-/home/marco/homework-robotica/catkin_ws/devel/.private/object_msgs/lib/python2.7/dist-packages/object_msgs/msg/__init__.py

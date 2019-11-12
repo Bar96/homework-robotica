@@ -1,6 +1,0 @@
-[35m[1mScanning dependencies of target common_sensors_xacro_generated_to_devel_space_[0m
-[  0%] Built target common_sensors_xacro_generated_to_devel_space_
-[35m[1mScanning dependencies of target sensor_filters[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/sensor_filters.dir/src/filters.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/marco/homework-robotica/catkin_ws/devel/.private/common_sensors/lib/libsensor_filters.so[0m
-[100%] Built target sensor_filters

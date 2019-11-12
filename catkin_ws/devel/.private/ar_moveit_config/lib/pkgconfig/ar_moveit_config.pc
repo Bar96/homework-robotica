@@ -1,8 +1,0 @@
-prefix=/home/marco/homework-robotica/catkin_ws/devel/.private/ar_moveit_config
-
-Name: ar_moveit_config
-Description: Description of ar_moveit_config
-Version: 0.3.0
-Cflags: 
-Libs: -L/home/marco/homework-robotica/catkin_ws/devel/.private/ar_moveit_config/lib 
-Requires: 

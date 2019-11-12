@@ -1,1 +1,0 @@
-/home/marco/homework-robotica/catkin_ws/devel/.private/easy_handeye/share/gennodejs/ros/easy_handeye/msg/_index.js

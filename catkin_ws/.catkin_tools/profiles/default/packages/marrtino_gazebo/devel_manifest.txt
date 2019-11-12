@@ -1,5 +1,0 @@
-internal/marrtino/marrtino_gazebo
-/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_gazebo/cmake.lock /home/marco/homework-robotica/catkin_ws/devel/./cmake.lock
-/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_gazebo/share/marrtino_gazebo/cmake/marrtino_gazeboConfig.cmake /home/marco/homework-robotica/catkin_ws/devel/share/marrtino_gazebo/cmake/marrtino_gazeboConfig.cmake
-/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_gazebo/share/marrtino_gazebo/cmake/marrtino_gazeboConfig-version.cmake /home/marco/homework-robotica/catkin_ws/devel/share/marrtino_gazebo/cmake/marrtino_gazeboConfig-version.cmake
-/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_gazebo/lib/pkgconfig/marrtino_gazebo.pc /home/marco/homework-robotica/catkin_ws/devel/lib/pkgconfig/marrtino_gazebo.pc

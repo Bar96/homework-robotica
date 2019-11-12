@@ -1,1 +1,0 @@
-/home/marco/homework-robotica/catkin_ws/devel/.private/common_sensors/share/common_sensors/cmake/common_sensorsConfig.cmake

@@ -1,1 +1,0 @@
-/home/marco/homework-robotica/catkin_ws/devel/.private/marrtino_gazebo/share/marrtino_gazebo/cmake/marrtino_gazeboConfig-version.cmake

@@ -1,6 +1,0 @@
-third_party/common-sensors/common_sensors
-/home/marco/homework-robotica/catkin_ws/devel/.private/common_sensors/cmake.lock /home/marco/homework-robotica/catkin_ws/devel/./cmake.lock
-/home/marco/homework-robotica/catkin_ws/devel/.private/common_sensors/share/common_sensors/cmake/common_sensorsConfig-version.cmake /home/marco/homework-robotica/catkin_ws/devel/share/common_sensors/cmake/common_sensorsConfig-version.cmake
-/home/marco/homework-robotica/catkin_ws/devel/.private/common_sensors/share/common_sensors/cmake/common_sensorsConfig.cmake /home/marco/homework-robotica/catkin_ws/devel/share/common_sensors/cmake/common_sensorsConfig.cmake
-/home/marco/homework-robotica/catkin_ws/devel/.private/common_sensors/lib/libsensor_filters.so /home/marco/homework-robotica/catkin_ws/devel/lib/libsensor_filters.so
-/home/marco/homework-robotica/catkin_ws/devel/.private/common_sensors/lib/pkgconfig/common_sensors.pc /home/marco/homework-robotica/catkin_ws/devel/lib/pkgconfig/common_sensors.pc
